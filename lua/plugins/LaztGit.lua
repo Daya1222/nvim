@@ -1,7 +1,5 @@
 local plugins = {
-  -- Your existing plugins...
 
-  -- Lazygit integration
   {
     "kdheepak/lazygit.nvim",
     cmd = {
